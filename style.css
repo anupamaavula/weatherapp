@@ -1,0 +1,46 @@
+ 
+body,html {
+  
+  background-image: url('images/bg3.png');
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;	
+}
+
+
+.text-center{
+	font-size:50px;
+	font-weight:600;
+}
+
+.button{
+	height:40px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.inputValue{
+	height: 40px;
+	font-size: 20px;
+
+}
+.input{
+	text-align:center;
+	padding-top: 20px;
+	margin: auto;
+}
+.display{
+	text-align: center;
+	padding-top: 20px;
+	margin-top:auto;
+	color: black;
+
+}
+.name{
+	font-size: 35px ;
+	
+
+}
+p{
+	font-size:25px;
+}
